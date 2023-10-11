@@ -1,0 +1,103 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: justify;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    font-family: Montserrat;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 500%;
+}
+
+h2 {
+    text-align: justify;
+    margin-top: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    text-transform: uppercase;
+    font-size: 200%;
+}
+
+img {
+    float: left;
+    margin-top: 0%;
+}
+
+body {
+    background: url(liquid-cheese.png);
+    background-size: cover;
+}
+
+main {
+    text-align: justify;
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 150%;
+}
+
+table {
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+    border-color: rgb(5, 0, 0);
+    border-style: dashed;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    color: white;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+
+}
+
+table img {
+    width: 300px;
+    height: 250px;
+    margin-left: 15%;
+    margin-right: 10%;
+}
+
+form{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 7%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    color: white;
+
+}
+
+footer{
+    text-align: center;
+    font-size:1em ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    
+}
+
+.botao_enviar{
+    color: #560098;
+    background-color:#ffffff;
+    padding: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-style:double;
+    font-size: large;
+    font-style:oblique;
+
+}
+
